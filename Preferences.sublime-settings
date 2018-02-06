@@ -1,0 +1,26 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	// Tamanho da Fonte
+	"font_size": 14,
+	// Tipo da fonte
+	"font_face": "Anonymous Pro",
+	// Thema do Sublime (você pode alterar o "Dark" para "Light")
+	"theme": "Soda Dark 3.sublime-theme",
+	// Distancia da linha de cima
+	"line_padding_top":1,
+	// Mesmo espaçamento no final das linhas
+	"line_padding_bottom":1,
+	// Marca a linha em que o cursor está digitando
+	"highlight_line":true,
+	// Marcação em arquivos não salvos
+	"highlight_modified_tabs":true,
+	// Marcador de Redução de Código
+	"fade_fold_buttons":false,
+	// Titulo das Pastas em Negrito
+	"bold_folder_labels":true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme"
+}

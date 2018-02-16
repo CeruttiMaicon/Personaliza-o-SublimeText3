@@ -1,0 +1,22 @@
+Instalar no Sublime
+
+Aperte Ctrl+Shift+P e pesquise install Package
+
+Instale os seguintes plugins:
+
+Para cores:
+	Color Highlighter (mostra a cor em exadecimal)
+	Color Piker  (Ctrl+Shift+C abre um menu para escolher a cor)
+	BracketHighlighter (Marcação de Tag de abrir e fechar)
+	Inc-dec-Value (Aperte Alt + setas para aumentar valores ou mudar o tamanho das letras)
+	AdvancedNewFile (Ctrl+Alt+N cria pastas como se fosse no Linux)
+	AutoFileName (Para puxar a url da imagem pelo diretorio)
+	CSS Extended Completions (Tenta buscar o nome da tag do CSS)
+	DocBlockr (Ajuda a inserir comentarios de acordo com a linguagem)
+	HTML5 (Ajuda nos comandos mais basicos e avançados)
+	Placeholders ( cria textos e imagens aleatorios para fins de teste )
+	Css Snippets ()
+	Jquery
+	Apache Conf
+	KeyMaps
+	Emmet
